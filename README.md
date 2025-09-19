@@ -21,7 +21,6 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://plz-exception.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://plz-exception.tistory.com/"> </a>
-         <a href=mailto:rlatmd017@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:rlatmd017@gmail.com"> </a>
          <a href=https://blog.naver.com/rlatmd017> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=https://blog.naver.com/rlatmd017"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
